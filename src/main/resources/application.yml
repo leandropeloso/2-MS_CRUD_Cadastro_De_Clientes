@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:sqlserver://seuservidor:1433;databaseName=SQLSERVER2022
+spring.datasource.username=User
+spring.datasource.password=
+spring.datasource.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver

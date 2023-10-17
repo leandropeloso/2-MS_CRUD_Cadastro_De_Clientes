@@ -1,0 +1,12 @@
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                              https://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <servers>
+        <server>
+            <id>ICR</id>
+            <username>ecommit</username>
+            <password>l5li6g5gd2dbn2w4fvsmgyax3pooeu5ahvvou7lhjey6ri4u2cqa</password>
+        </server>
+    </servers>
+</settings>
